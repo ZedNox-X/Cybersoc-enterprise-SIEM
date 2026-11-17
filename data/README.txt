@@ -1,0 +1,1 @@
+Sample events: samples/sample_security_events.csv. IPs are documentation-only ranges, not real attack sources.\n
